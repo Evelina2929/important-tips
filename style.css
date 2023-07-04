@@ -63,3 +63,13 @@
     li{
         background: #ffffff73;
     }
+
+    @media (max-width: 768px){
+        img{
+            width: 309px;
+            margin: 10px 0;
+        }
+        li{
+            margin-bottom: 10px;
+        }
+    }
