@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    body{
+        background-image: url("https://img.wallscloud.net/uploads/thumb/3971053349/the-mountains-1-55888-1024x576-MM-80.webp");
+        background-size: contain;
+    }
+    img{
+    
+        width:500px;
+    }
+    
+    h1{
+        text-align: center; 
+    }
+    
+    .btn{
+        color: red;
+        text-decoration: mone;
+        border: lpx solid black;
+        border-radius: 7px;
+        padding: 5px 10px;
+        background-color: black;
+        transition: 0.5s;
+    }
+    
+    /* стили для секции */
+    section{
+    width:100% ;
+    display: flex;
+    
+    }
+    
+    
+    .text{
+        width:60% ;
+    padding: 5px 20px;
+    }
+    
+    .picture{
+        width: 40%;
+    }
+    .picture img{
+    width: 100%;
+    }
+
+    ol{
+        margin-left: 50px;
+        
+    }
+
+    li{
+        background: #ffffff73;
+    }
